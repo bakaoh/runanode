@@ -49,7 +49,7 @@ Button.defaultProps = {
   iconAfter: '',
   iconBefore: '',
   inputSuffix: false,
-  loading: false,
+  loading: undefined,
   outline: false,
   size: 'md',
   themeKey: 'Button',
